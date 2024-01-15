@@ -12,7 +12,7 @@ import {voxels} from './voxels.js';
 let _APP = null;
 
 
-class SimonDevCraft extends game.Game {
+class ArdinoWebCraft extends game.Game {
   constructor() {
     super();
   }
