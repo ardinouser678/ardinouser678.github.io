@@ -63,7 +63,7 @@ class SimonDevCraft extends game.Game {
 
 
 function _Main() {
-  _APP = new SimonDevCraft();
+  _APP = new ArdinoWebCraft();
 }
 
 _Main();
